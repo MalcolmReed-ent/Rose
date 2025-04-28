@@ -1,0 +1,73 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Rose</string>
+
+    <!-- Import -->
+    <string name="notification_channel_name_import_epub">Import EPUB</string>
+    <string name="import_epub">Import EPUB</string>
+    <string name="failed_get_file">Failed to get the file</string>
+
+    <!-- Book Info -->
+    <string name="book_info_expand">More</string>
+    <string name="book_info_collapse">Less</string>
+    <string name="description_placeholder">No description</string>
+    <string name="display_mode_chapter">Chapter %1$s</string>
+
+    <!-- Library Management -->
+    <string name="add_to_library">Add to Library</string>
+    <string name="in_library">In Library</string>
+    <string name="remove_from_library">Remove from library</string>
+    <string name="tracking_tab">Tracking</string>
+    <string name="add_tracking">Add tracking</string>
+
+    <!-- Reader Status -->
+    <string name="chapter_error">Error</string>
+    <string name="chapter_paused">Paused</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Chapter Navigation -->
+    <string name="no_next_chapter">Next chapter not found</string>
+    <string name="transition_no_next">There\'s no next chapter</string>
+    <string name="transition_no_previous">There\'s no previous chapter</string>
+    <string name="reader_no_more_chapters"> Last chapter </string>
+    <string name="reader_first_chapter"> First chapter </string>
+
+    <!-- Display Options -->
+    <string name="show_title">Source title</string>
+    <string name="show_chapter_number">Chapter number</string>
+
+    <!-- Sorting Options -->
+    <string name="sort_by_source">By source</string>
+    <string name="sort_by_number">By chapter number</string>
+    <string name="sort_by_upload_date">By upload date</string>
+    <string name="action_newest">Newest</string>
+    <string name="action_oldest">Oldest</string>
+    <string name="action_asc">Ascending</string>
+    <string name="action_desc">Descending</string>
+
+    <!-- Time Formats -->
+    <string name="day_short">%dd</string>
+    <string name="hour_short">%dh</string>
+    <string name="minute_short">%dm</string>
+    <string name="seconds_short">%ds</string>
+
+    <!-- Clipboard -->
+    <string name="copied_to_clipboard_plain">Copied to clipboard</string>
+    <string name="copied_to_clipboard">Copied to clipboard:\n%1$s</string>
+    <string name="action_copy_to_clipboard">Copy to clipboard</string>
+
+    <!-- Actions -->
+    <string name="label_more">More</string>
+    <string name="action_filter_unread">Unread</string>
+    <string name="action_filter_bookmarked">Bookmarked</string>
+    <string name="action_bookmark">Bookmark chapter</string>
+    <string name="action_remove_bookmark">Unbookmark chapter</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_select_all">Select all</string>
+    <string name="action_select_inverse">Select inverse</string>
+    <string name="action_mark_as_read">Mark as read</string>
+    <string name="action_mark_as_unread">Mark as unread</string>
+    <string name="action_mark_previous_as_read">Mark previous as read</string>
+    <string name="action_start">Start</string>
+    <string name="action_resume">Resume</string>
+</resources>
